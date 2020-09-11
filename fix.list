@@ -1,2 +1,3 @@
+host-suffix, translate.google.cn, proxy
 user-agent, GoogleTranslate*, proxy
 host-suffix, another-eden.jp, direct
