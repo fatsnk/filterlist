@@ -1,2 +1,3 @@
 ;host-suffix, another-eden.jp, direct
 DOMAIN-SUFFIX,ip.sb,PROXY
+DOMAIN-SUFFIX,google.cn,PROXY
