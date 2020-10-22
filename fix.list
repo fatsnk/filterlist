@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,google.cn,PROXY
 DOMAIN,translate.googleapis.com,PROXY
 DOMAIN,dl.google.com,PROXY
 DOMAIN,dl.l.google.com,PROXY
+DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN-SUFFIX,media.st.dl.pinyuncloud.com,PROXY
